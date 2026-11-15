@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/Daniel-Gomez224/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/Daniel-Gomez224/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/Daniel-Gomez224/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/Daniel-Gomez224/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/Daniel-Gomez224/legion-del-mal?&cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
