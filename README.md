@@ -9,16 +9,12 @@
 ![Licencia](https://img.shields.io/github/license/Daniel-Gomez224/legion-del-mal?&cacheSeconds=60)
 
 
-# 🦹‍♂️ La Legión del Mal 
+# 🦹‍♂️ La Legión del Mal - Desde local 
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
 
-<<<<<<< HEAD
 ## ¿Quiénes somos? - Remoto y local
-=======
-## ¿Quiénes somos? - desde remoto y local
->>>>>>> 9ae484e (fix: solventar conflicto)
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 
